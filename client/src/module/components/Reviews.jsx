@@ -39,8 +39,7 @@ export default function Reviews() {
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
                 ></path>
               </svg>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
-              tenetur quae quaerat ad velit ab hic tenetur.
+              The Gym offers top-notch equipment and spotless facilities. The instructors are excellent, and the variety of classes keeps my workouts fresh and exciting. Highly recommend
             </p>
             <ul className="flex justify-center mb-0">
               <li>
@@ -137,7 +136,7 @@ export default function Reviews() {
                 className="rounded-full shadow-lg w-32"
               />
             </div>
-            <h5 className="text-xl font-semibold mb-4">Lisa Cudrow</h5>
+            <h5 className="text-xl font-semibold mb-4">Piya Mishra</h5>
             <h6 className="font-semibold text-orange-600 mb-4">AFRICA</h6>
             <p className="mb-4">
               <svg
@@ -153,8 +152,7 @@ export default function Reviews() {
                 <path
                   fill="currentColor"
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
-                ></path></svg>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
-              laboriosam, nisi ut aliquid commodi.
+                ></path></svg>Fantastic gym with a welcoming atmosphere and friendly staff. The personal training sessions are incredibly helpful for achieving my fitness goals. Loving my time here!
             </p>
             <ul className="flex justify-center mb-0">
               <li>
@@ -251,7 +249,7 @@ export default function Reviews() {
                 className="rounded-full shadow-lg w-32"
               />
             </div>
-            <h5 className="text-xl font-semibold mb-4">John Smith</h5>
+            <h5 className="text-xl font-semibold mb-4">Ali Khan</h5>
             <h6 className="font-semibold text-orange-600 mb-4">SCOTLAND</h6>
             <p className="mb-4">
               <svg
@@ -267,8 +265,7 @@ export default function Reviews() {
                 <path
                   fill="currentColor"
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
-                ></path></svg>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-              praesentium voluptatum deleniti atque corrupti.
+                ></path></svg>Great range of equipment and well-organized classes. The gym is clean, but peak hours can get crowded. Overall, a solid choice for staying fit.
             </p>
             <ul className="flex justify-center mb-0">
               <li>

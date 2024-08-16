@@ -49,7 +49,7 @@ export default function Footer() {
         </div>
       </div>
       <div className='lg:border-t-2 border-gray-400 w-full h-20 flex items-center justify-center lg:justify-end '>
-          <p>Website by <span className='text-lg font-bold text-white'> Abdullah Moiz </span>Copyright ©  All right Reserved</p>
+          <p>Website by <span className='text-lg font-bold text-white'> Group-22 </span>Copyright ©  All right Reserved</p>
       </div>
     </div>
   )

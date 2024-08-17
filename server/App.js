@@ -18,7 +18,11 @@ const connectionUrl = process.env.ConnectionUrl;
 
 
 
-app.use(cors());
+app.use(cors({
+    origin: ["https://deploy-mern-1whq.vercel.app"],
+    methods : ["Post", "Get"],
+    credentials: true,
+}));
 app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }))
 app.use(bodyParser.json({ limit: '50mb' }));
 

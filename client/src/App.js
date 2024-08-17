@@ -50,35 +50,35 @@ function App() {
   const [cardData, setcardData] = useState();
 
   // ^ fetch All Data
-  const AllDatas = async () => {
-    try {
-      axios.get('http://localhost:5010/GetAllmachineData')
-        .then(res => res.data)
-        .then(data => setMachineData((data)))
+  // const AllDatas = async () => {
+  //   try {
+  //     axios.get('http://localhost:5010/GetAllmachineData')
+  //       .then(res => res.data)
+  //       .then(data => setMachineData((data)))
 
-    } catch (error) {
-      console.log('error from getting machine Data' + error.message);
-    }
-    try {
-      axios.get('http://localhost:5010/getAllAccessoriesData')
-        .then(res => res.data)
-        .then(data => setAccessoriesData((data)))
-    } catch (error) {
-      console.log('error from getting machine Data' + error.message);
-    }
-    try {
-      axios.get('http://localhost:5010/getAllmedicineData')
-        .then(res => res.data)
-        .then(data => setMedicinedata((data)))
-    } catch (error) {
-      console.log('error from getting machine Data' + error.message);
-    }
-  }
+  //   } catch (error) {
+  //     console.log('error from getting machine Data' + error.message);
+  //   }
+  //   try {
+  //     axios.get('http://localhost:5010/getAllAccessoriesData')
+  //       .then(res => res.data)
+  //       .then(data => setAccessoriesData((data)))
+  //   } catch (error) {
+  //     console.log('error from getting machine Data' + error.message);
+  //   }
+  //   try {
+  //     axios.get('http://localhost:5010/getAllmedicineData')
+  //       .then(res => res.data)
+  //       .then(data => setMedicinedata((data)))
+  //   } catch (error) {
+  //     console.log('error from getting machine Data' + error.message);
+  //   }
+  // }
 
 
-  useEffect(() => {
-    AllDatas();
-  }, [])
+  // useEffect(() => {
+  //   AllDatas();
+  // }, [])
 
 
   let getCardData = (x) => {

@@ -13,7 +13,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 const app = express();
 const port = 8000;
-const connectionUrl = process.env.ConnectionUrl;
+const connectionUrl = "mongodb+srv://harshita23bce11331:test@cluster0.i5xjz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 
